@@ -1,3 +1,3 @@
 # 네트워크 연결
 
-[](https://www.acmicpc.net/problem/1922)
+[문제 링크](https://www.acmicpc.net/problem/1922)
